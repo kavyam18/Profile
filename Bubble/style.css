@@ -1,0 +1,68 @@
+#circle1{
+    height:100px;
+    width: 100px;
+    background-color: rgb(189, 26, 26);
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+}
+#abc{
+    
+    width: 400px;
+    height: 500px;
+}
+#circle2{
+    height:100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    position: absolute;
+    top: 160px;
+}
+#circle3{
+    height:100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    position: absolute;
+    top: 270px;
+}
+#circle4{
+    height:100px;
+    width: 100px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+    position: absolute;
+    top: 380px;
+}
+
+#arrow1{
+    
+    position: absolute;
+    top: 85px;
+    left: 400px;
+}
+#arrow2{
+
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+#arrow3{
+  
+    position: absolute;
+    top: 310px;
+    left: 400px;
+}
+#arrow4{
+   
+    position: absolute;
+    top: 420px;
+    left: 400px;
+}
+#reset{
+    position: absolute;
+    left: 230px;
+    top: 500px;
+    background-color: peachpuff;
+}
