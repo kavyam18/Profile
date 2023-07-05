@@ -1,0 +1,3 @@
+# Profile
+👋 Hi I'm @kavyam18 👀 I'm interested in Software Development... 🧑‍🎓 I'm currently learning Java Full Stack Development... ☎️ Reach me at +91 9742021649 
+📧 kavyam1804@gmail.com 📚 I have Completed MCA in 2022 with 8.2CGPA 🧑‍💻 Open to work.......
